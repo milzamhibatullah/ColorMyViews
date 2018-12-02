@@ -5,4 +5,9 @@
     <string name="box_three">Box Three</string>
     <string name="box_four">Box Four</string>
     <string name="box_five">Box Five</string>
+    <string name="how_to_play">How to play :</string>
+    <string name="tap_to_play">Tap screen or button to play</string>
+    <string name="red_button">Red</string>
+    <string name="yellow_button">Yellow</string>
+    <string name="green_button">Green</string>
 </resources>
